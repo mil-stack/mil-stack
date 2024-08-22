@@ -1,5 +1,5 @@
-<div id="header" align="left">
-  <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_5_.gif?raw=true" width="350"/>
+<div id="header" align="middle">
+  <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_7_.gif?raw=true"width="500"/>
 </div>
 
 
@@ -7,6 +7,8 @@ Hi 👋 My name is Milana
 "I am a testing engineer."
 I am currently studying on the Hekselet platform and have successfully completed a project testing an online store. 
 As part of my training, I have completed a series of courses that cover key aspects of software testing, including:
+
+
 
 - Development of Single Page Applications (SPA)
 - Basics of CRUD operations
