@@ -1,6 +1,6 @@
 <div id="header" align="middle">
   <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_7_.gif?raw=true"width="500"/>
-</div>
+</div> 
 
 
 Hi 👋 My name is Milana
