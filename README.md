@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif.gif?raw=true" width="100"/>
+</div>
+
+
 Hi 👋 My name is Milana
 "I am a testing engineer."
 I am currently studying on the Hekselet platform and have successfully completed a project testing an online store. 
