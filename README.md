@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src=["https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ0a2kyaXZ6M2I3OWk4MmYwenVieHl6em1jaXY4OHRhMGF1Ym1hdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4JyQqyt9S1WTiE6c/giphy.gif) width="100"/>
+</div>
+
 Hi 👋 My name is Milana
 "I am a testing engineer."
 I am currently studying on the Hekselet platform and have successfully completed a project testing an online store. 
