@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_5_.gif?raw=true" width="350"/>
 </div>
 
