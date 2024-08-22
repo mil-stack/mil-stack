@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif.gif?raw=true" width="600"/>
+  <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_5_.gif?raw=true" width="600"/>
 </div>
 
 
