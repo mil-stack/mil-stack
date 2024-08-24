@@ -1,11 +1,14 @@
 <div id="header" align="middle">
-  <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_8_.gif?raw=truewidth="500"/>
+  <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_8_.gif?raw=true width="500"/>
 </div>
 
 
-Hi 👋 My name is Milana. I am a QA Engineer (junior).
+<div id="header" align="center">
+<h1>Hi👋 My name is Milana. I am a QA Engineer (junior).</h1>
+<h3>As part of my training, I have completed a series of courses that cover key aspects of software testing, including:</h3>
+</div>
 
-As part of my training, I have completed a series of courses that cover key aspects of software testing, including:
+
 - Fundamentals of Software Testing
 - Functional Testing
 - Regression Testing
@@ -22,3 +25,8 @@ I am eager to apply my knowledge in practice and contribute to the success of yo
 
 - 🔭 I’m currently studying at Hexlet
 - 🌱 I am currently studying to become a testing engineer
+
+
+
+          
+
