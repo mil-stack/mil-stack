@@ -4,7 +4,7 @@
 
 
 Hi 👋 My name is Milana
-"I am a testing engineer."
+"I am a QA Engineer (junior)."
 I am currently studying on the Hexlet platform and have successfully completed a project testing an online store. 
 As part of my training, I have completed a series of courses that cover key aspects of software testing, including:
 
