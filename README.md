@@ -10,6 +10,13 @@
 </div>
 
 
+
+<div id="header" align="middle">
+  <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_8_.gif?raw=true width="500"/>
+</div>
+
+
+
 <div id="header" align="center">
 <h3>As part of my training, I have completed a series of courses that cover key aspects of software testing, including:</h3>
 </div>
