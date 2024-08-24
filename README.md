@@ -11,7 +11,6 @@
 
 
 <div id="header" align="center">
-<h1>Hi👋 My name is Milana. I am a QA Engineer (junior).</h1>
 <h3>As part of my training, I have completed a series of courses that cover key aspects of software testing, including:</h3>
 </div>
 
