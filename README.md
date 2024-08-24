@@ -28,9 +28,7 @@ I am eager to apply my knowledge in practice and contribute to the success of yo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="30" /> 
 
-[![Build Status](https://travis-ci.org/USERNAME/REPOSITORY.svg?branch=main)](https://travis-ci.org/USERNAME/REPOSITORY)
-          
-          
+[![CircleCI](https://circleci.com/gh/USERNAME/REPOSITORY/tree/main.svg?style=svg)](https://circleci.com/gh/USERNAME/REPOSITORY/tree/main)
           
           
           
