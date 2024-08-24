@@ -2,6 +2,13 @@
   <img src="https://github.com/mil-stack/mil-stack/blob/main/giphy.gif-_8_.gif?raw=true width="500"/>
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=DBA5F7&vCenter=true&width=435&lines=Hi%F0%9F%91%8B+My+name+is+Milana.+I+am+a+QA+Engineer+(junior)+)](https://git.io/typing-svg)
+
+</div>
+
+
 
 <div id="header" align="center">
 <h1>Hi👋 My name is Milana. I am a QA Engineer (junior).</h1>
